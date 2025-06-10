@@ -24,4 +24,4 @@ If you forget to press a button at the bottom of the screen, your changes will n
 - [Calendar_Daily_Planner.apk](https://github.com/Raz0rb1ll/Daily-Planner/blob/main/Calendar_Daily_Planner.apk) *(Official version—report fake copies!)*  
 
 ## Copyright  
-© 2025 ANTONIS ORFANOUDAKIS. **Do not redistribute** without permission.  
+© 2025 ANTONIOS ORFANOUDAKIS. **Do not redistribute** without permission.  

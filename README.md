@@ -17,7 +17,7 @@ be saved when you press a button at the bottom of the screen.
 Those Buttons are :(“Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”, “Saturday”,
 “Sunday”, “Menu 1”, “Menu 2”, “Menu 3”, ”Week 1”, “Week 2”, “Week 3”, “Week 4”, “Main
 Menu”).
-If you forget to press a button at the bottom of the screen, your changes will not be saved
+If you forget to press a button at the bottom of the screen, your changes will not be saved.
 
 
 ## Download  
